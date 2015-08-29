@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>M-1</title>
+<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+<style>
+ol {
+  list-style: none;
+}
+ol li:before {
+  counter-increment: sections;
+  content: counter(sections) ". ";
+}
+ol:first-of-type {
+  counter-reset: sections;
+}
+ol ol {
+  list-style: none;
+}
+ol ol li:before {
+  counter-increment: subsections;
+  content: "(" counter(subsections,lower-latin) ") ";
+}
+ol ol:first-of-type {
+  counter-reset: subsections;
+}
+</style>
+</head>
+<body><div class="container"><h1 id="motion-m-1-a-motion-to-formally-recognise-palestine-as-an-independent-sovereign-state">Motion M-1 A Motion to formally recognise Palestine as an independent sovereign state</h1>
+
+<p>Canada hereby recognizes the declaration of independence made on the 15th of November 1988 by the Palestine Liberation Organization at a session in exile of the Palestine National Council,</p>
+
+<ul>
+<li>Supporting the entry of Palestine into the United Nations,</li>
+<li>Recognizing the borders of the state of Palestine to be those that existed up to the 4th of June 1967,</li>
+<li>Acknowledging the State of Palestine’s sovereignty over the West Bank, Gaza Strip, with its capital as Jerusalem; while also recognizing that Jerusalem is also the capital of Israel,</li>
+<li>Recognizing the need for the two countries of Israel and Palestine to have negotiations without preconditions in order to make a peaceful deal possible,</li>
+<li>Continuing recognition only upon Palestine continuing negotiations in full faith with Israel about a two state solution,</li>
+<li>Recognizing that  Israel should also be held to accountable if they do not negotiate in full faith for a two state solution.</li>
+</ul>
+
+<hr>
+
+<p><strong>The Motion was submitted by /u/ExplosiveHorse and seconded by /u/Canadianman22 on behalf of the Liberal Party.</strong></p></div></body>
+</html>
