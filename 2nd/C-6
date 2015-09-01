@@ -17,25 +17,25 @@ ol li:before {
 ol:first-of-type {
   counter-reset: sections;
 }
-ol ol {
+ol ol, ul ol {
   list-style: none;
 }
-ol ol li:before {
+ul ol li:before, ol ol li:before {
   counter-increment: subsections;
   content: "(" counter(subsections,lower-latin) ") ";
 }
-ol ol:first-of-type {
+ul ol:first-of-type, ol ol:first-of-type {
   counter-reset: subsections;
 }
 
-ol ol ol {
+ol ol ol, ol ul ol, ul ol ol, ul ul ol {
   list-style: none;
 }
-ol ol ol li:before {
+ol ol ol li:before, ol ul ol li:before, ul ol ol li:before, ul ul ol li:before {
   counter-increment: subparagraphs;
   content: "(" counter(subparagraphs,lower-roman) ") ";
 }
-ol ol ol:first-of-type {
+ol ol ol:first-of-type, ol ul ol:first-of-type, ul ol ol:first-of-type, ul ul ol:first-of-type {
   counter-reset: subparagraphs;
 }
 
@@ -80,7 +80,7 @@ li p { display: inline; }
 <li><p>(1) The following general conditions apply:</p>
 
 <ol><li>each person eligible to travel or migrate under any free movement arrangement must be a citizen of the UK, Canada, Australia or New Zealand, and be in possession of a valid UK, Canadian, Australian or New Zealand passport;</li>
-<li>each person wishing to permanently migrate under the free movement arrangement must have been a citizen of the UK, Canada, Australia or New Zealand for at least 7 years before being deemed eligible to travel or migrate under such arrangement</li>
+<li>each person wishing to permanently migrate under the free movement arrangement must have been a citizen of the UK, Canada, Australia or New Zealand for at least 7 years before being deemed eligible to travel or migrate under such arrangement,</li>
 <li>unless the person in question is a minor under the guardianship of a person who qualifies under these conditions;</li>
 <li><p>the countries who sign this act reserve the right to lower this restriction for migrants entering their country;</p></li>
 <li><p>each person eligible to travel must be of the age of 18 years or over, unless the person in question is a minor under the guardianship of a person who qualifies under these conditions; and</p></li>
@@ -131,6 +131,8 @@ li p { display: inline; }
 (a) If any of the countries involved in this bill wish to withdraw from the agreement after enacting it, they must give the other countries involved a 3 month prior notice about their intentions <br>
 (b) If any of the countries involved in this bill break the restrictions laid in the bill, after a 3 month period of non compliance their participation in the agreement shall be considered nullified by the other countries in the agreement <br>
      (i) Any migrants from the country which breaks the agreement still resident in any of the other countries in the agreement by the end of the non compliance period shall be dealt with according to each of the host country’s own immigration laws.</p>
+
+
 
 <h3 id="commencement-short-title-and-extent">Commencement, Short Title and Extent</h3>
 
