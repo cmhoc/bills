@@ -1,162 +1,83 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>C-6</title>
-<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
-<style>
-ol {
-  list-style: none;
-}
-ol li:before {
-  counter-increment: sections;
-  content: counter(sections) ". ";
-}
-ol:first-of-type {
-  counter-reset: sections;
-}
-ol ol, ul ol {
-  list-style: none;
-}
-ul ol li:before, ol ol li:before {
-  counter-increment: subsections;
-  content: "(" counter(subsections,lower-latin) ") ";
-}
-ul ol:first-of-type, ol ol:first-of-type {
-  counter-reset: subsections;
-}
+Bill C-6 Free Movement between United Kingdom, Australia, New Zealand and Canada Act
+===================
+[TOC]
 
-ol ol ol, ol ul ol, ul ol ol, ul ul ol {
-  list-style: none;
-}
-ol ol ol li:before, ol ul ol li:before, ul ol ol li:before, ul ul ol li:before {
-  counter-increment: subparagraphs;
-  content: "(" counter(subparagraphs,lower-roman) ") ";
-}
-ol ol ol:first-of-type, ol ul ol:first-of-type, ul ol ol:first-of-type, ul ul ol:first-of-type {
-  counter-reset: subparagraphs;
-}
+*Her Majesty, by and with the advice and consent of the House of Commons of Canada, enacts as follows:*
 
-li p { display: inline; }
-</style>
-</head>
-<body><div class="container"><h1 id="bill-c-6-free-movement-between-united-kingdom-australia-new-zealand-and-canada-act">Bill C-6 Free Movement between United Kingdom, Australia, New Zealand and Canada Act</h1>
+###Objective
+1.  (1) Freedom of Movement of people is to be allowed for between the 4 countries of the United Kingdom, Australia, New Zealand and Canada, allowing for restrictions placed upon in section 2 of this Act.
+(2) It shall entail the rights, subject to limitations under section 2 of this Act for said migrants:
+  1. to be able to accept offers of employment;
+  2. to move freely within the territory of the host country for this purpose; and
+  3. to have indefinite leave to remain in the territory of a Member State after having been employed in that State.
 
-<p><div class="toc">
-<ul>
-<li><a href="#bill-c-6-free-movement-between-united-kingdom-australia-new-zealand-and-canada-act">Bill C-6 Free Movement between United Kingdom, Australia, New Zealand and Canada Act</a><ul>
-<li><a href="#title">#</a><ul>
-<li><a href="#general-conditions">General Conditions</a></li>
-<li><a href="#economic-conditions">Economic Conditions</a></li>
-<li><a href="#commencement-short-title-and-extent">Commencement, Short Title and Extent</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</div>
-</p>
+  (3) Qualifications achieved in one of the 4 countries shall be mutually recognized by all of the other countries in the agreement.
+(4) The governments of the nations involved in this agreement will remain independent and sovereign with respect to all agreements, negotiations and conditions regarding free movement among these 4 countries.
+(5) If one or more of the countries involved in the agreement do not enact an Act that sets out the same terms as this Act, the actions set out in this Act will continue between the remaining countries that accept it
 
-<p><em>Her Majesty, by and with the advice and consent of the House of Commons of Canada, enacts as follows:</em></p>
+###General Conditions
+2. (1) The following general conditions apply when exercising the rights granted by this Act:
+  1. each person eligible to travel or migrate under any free movement arrangement must be a citizen of the UK, Canada, Australia or New Zealand, and be in possession of a valid UK, Canadian, Australian or New Zealand passport;
+  2. each person wishing to permanently migrate under the free movement arrangement must have been a citizen of the UK, Canada, Australia or New Zealand for at least 7 years before being deemed eligible to travel or migrate under such arrangement, unless the person in question is a minor under the guardianship of a person who qualifies under these conditions;
+  3. a country involved in this agreement reserves the right to lower the restrictions imposed by paragraph (b) for migrants entering that country;
+  4. each person eligible to travel must be of the age of 18 years or over, unless the person in question is a minor under the guardianship of a person who qualifies under these conditions; and
+  5. each person eligible to travel or migrate under any free movement arrangement will be permitted to enter, leave and re-enter the UK, Canada, Australia and New Zealand any number of times.
+
+###Economic Conditions
+ * (2) The following economic conditions apply when exercising the rights granted by this Act:
+  1. migrants from one of the other countries into the host country must intend to either legally work in the host country or be self sufficient/self funded for the duration of their stay;
+  2. upon entry, each new arrival (as a migrant) must apply for and obtain a tax-file number/social security number for the purposes of obtaining work legally, and/or paying applicable taxes as required by the host country;
+  3. all migrants must have professional working proficiency in English or French if they have the purposes of gaining employment, to be deemed and decided upon by the host country in question based upon the provisions set out in this Act;
+  4. all migrants to the host country must oblige by the laws and regulations set out by said country;
+  5. the host country may not allow discrimination in regards to employment between migrants from the other 3 countries involved in the agreement against native workers of said country; and
+  6. paragraph (e) does not apply to civil or public service and any other jobs that may require a security clearance.
+
+###Personal Conditions
+* (3) The following personal conditions apply when exercising the rights granted by this Act:
+  1. migrants will not be eligible for any state-funded social-welfare payments until 4 years from the date of their arrival in the host country;
+  2. migrants will only be eligible to apply for citizenship in their respective host country after a maximum 7 years from the date of arrival in said country, providing they have lived permanently and continuously in said country during that time;
+  3. "permanently and continuously" in paragraph (b) means having the main residence of a person in a country and having stayed 6 months or more per year in that country;
+  4. a country involved in this agreement reserves the right to lower the restrictions imposed by paragraph (b) for migrants entering that country without the need to consult the other countries in this agreement;
+  5. migrants will be entitled to access their pensions from the country of origin in their respective host country; and
+  6. all migrants must comply, absolutely, with all immigration protocols and laws of the host country, and will be subject to deportation protocols, as standard, within said country.
+
+###Health Conditions
+* (4) The following health conditions apply when exercising the rights granted by this Act:
+
+  1. all migrants shall be entitled to at the minimum from the host country:
+     <ol><li>free emergency care in a public hospital; and</li>
+    <li>free ambulance travel to a public hospital;</li></ol>
+  2. dependent on each migrant's travel locations within specific time periods, each migrant will be required to prove they are not subject to infectious diseases that could pose a risk to the health and well-being of citizens within their host country; and
+  3. the host country may require migrants to take out health insurance to cover medical treatments not covered by the Healthcare Agreement set out in this Act.
+
+###Criminal Conditions
+5: Criminal Conditions
+
+(a) Migrants must not have been denied the right to travel outside their native country. 
+   
+(b) If seeking employment in the host country, migrants will be required to declare their criminal record for the past 10 years for any country in which they have resided 6 months or more
+
+(i) The host country reserves the right to deny a tax-file number/social security number to a migrant based off this record
 
 
+Section 3:
 
-<h3 id="objective">Objective</h3>
+1: Conditions which would nullify the agreement
+(a) If any of the countries involved in this Act wish to withdraw from the agreement after enacting it, they must give the other countries involved a 3 month prior notice about their intentions
+(b) If any of the countries involved in this Act break the restrictions laid in the bill, after a 3 month period of non compliance their participation in the agreement shall be considered nullified by the other countries in the agreement
+     (i) Any migrants from the country which breaks the agreement still resident in any of the other countries in the agreement by the end of the non compliance period shall be dealt with according to each of the host country’s own immigration laws.
 
-<ol>
-<li><p>(1) Freedom of Movement of people is to be allowed for between the 4 countries of the United Kingdom, Australia, New Zealand and Canada, allowing for restrictions placed upon in section 2 of this Act. <br>
-(2) It shall entail the rights, subject to limitations under section 2 of this Act for said migrants:</p>
+###Short Title,  extent and commencement 
+4. (1) This Act may be referred to as the *Free Movement between the UK, Australia, New Zealand and Canada Act*.
+(2) This Act will apply to Canada.
+(3) This Act shall only come into force if an Act that sets out the same terms as this Act is also enacted by at least one of the following countries:
+  1. Australia (/r/modelparliament);
+  2. New Zealand (/r/MNZGov); or
+  3. United Kingdom (/r/mhoc).
 
-<ol><li>to be able to accept offers of employment;</li>
-<li>to move freely within the territory of the host country for this purpose; and</li>
-<li>to have indefinite leave to remain in the territory of a Member State after having been employed in that State.</li></ol>
+  (4) This Act shall come into force a year after being enacted, subject to the conditions set out in this section.
 
-<p>(3) Qualifications achieved in one of the 4 countries shall be mutually recognized by all of the other countries in the agreement. <br>
-(4) The governments of the nations involved in this agreement will remain independent and sovereign with respect to all agreements, negotiations and conditions regarding free movement among these 4 countries. <br>
-(5) If one or more of the countries involved in the agreement do not enact an Act that sets out the same terms as this Act, the actions set out in this Act will continue between the remaining countries that accept it</p></li>
-</ol>
 
-<h3 id="general-conditions">General Conditions</h3>
+----------
 
-<ol>
-<li>(1) The following general conditions apply when exercising the rights granted by this Act: <br>
-<ol><li>each person eligible to travel or migrate under any free movement arrangement must be a citizen of the UK, Canada, Australia or New Zealand, and be in possession of a valid UK, Canadian, Australian or New Zealand passport;</li>
-<li>each person wishing to permanently migrate under the free movement arrangement must have been a citizen of the UK, Canada, Australia or New Zealand for at least 7 years before being deemed eligible to travel or migrate under such arrangement, unless the person in question is a minor under the guardianship of a person who qualifies under these conditions;</li>
-<li>a country involved in this agreement reserves the right to lower the restrictions imposed by paragraph (b) for migrants entering that country;</li>
-<li>each person eligible to travel must be of the age of 18 years or over, unless the person in question is a minor under the guardianship of a person who qualifies under these conditions; and</li>
-<li>each person eligible to travel or migrate under any free movement arrangement will be permitted to enter, leave and re-enter the UK, Canada, Australia and New Zealand any number of times.</li></ol></li>
-</ol>
-
-<h3 id="economic-conditions">Economic Conditions</h3>
-
-<ul>
-<li>(2) The following economic conditions apply when exercising the rights granted by this Act: <br>
-<ol><li>migrants from one of the other countries into the host country must intend to either legally work in the host country or be self sufficient/self funded for the duration of their stay;</li>
-<li>upon entry, each new arrival (as a migrant) must apply for and obtain a tax-file number/social security number for the purposes of obtaining work legally, and/or paying applicable taxes as required by the host country;</li>
-<li>all migrants must have professional working proficiency in English or French if they have the purposes of gaining employment, to be deemed and decided upon by the host country in question based upon the provisions set out in this Act;</li>
-<li>all migrants to the host country must oblige by the laws and regulations set out by said country;</li>
-<li>the host country may not allow discrimination in regards to employment between migrants from the other 3 countries involved in the agreement against native workers of said country; and</li>
-<li>paragraph (e) does not apply to civil or public service and any other jobs that may require a security clearance.</li></ol></li>
-</ul>
-
-<h3 id="personal-conditions">Personal Conditions</h3>
-
-<ul>
-<li>(3) The following personal conditions apply when exercising the rights granted by this Act: <br>
-<ol><li>migrants will not be eligible for any state-funded social-welfare payments until 4 years from the date of their arrival in the host country;</li>
-<li>migrants will only be eligible to apply for citizenship in their respective host country after a maximum 7 years from the date of arrival in said country, providing they have lived permanently and continuously in said country during that time;</li>
-<li>“permanently and continuously” in paragraph (b) means having the main residence of a person in a country and having stayed 6 months or more per year in that country;</li>
-<li>a country involved in this agreement reserves the right to lower the restrictions imposed by paragraph (b) for migrants entering that country without the need to consult the other countries in this agreement;</li>
-<li>migrants will be entitled to access their pensions from the country of origin in their respective host country; and</li>
-<li>all migrants must comply, absolutely, with all immigration protocols and laws of the host country, and will be subject to deportation protocols, as standard, within said country.</li></ol></li>
-</ul>
-
-<h3 id="health-conditions">Health Conditions</h3>
-
-<ul>
-<li><p>(4) The following health conditions apply when exercising the rights granted by this Act:</p>
-
-<ol><li>all migrants shall be entitled to at the minimum from the host country: <br>
-<ol><li>free emergency care in a public hospital; and</li>
-<li>free ambulance travel to a public hospital;</li></ol></li>
-<li>dependent on each migrant’s travel locations within specific time periods, each migrant will be required to prove they are not subject to infectious diseases that could pose a risk to the health and well-being of citizens within their host country; and</li>
-<li>the host country may require migrants to take out health insurance to cover medical treatments not covered by the Healthcare Agreement set out in this Act.</li></ol></li>
-</ul>
-
-<h3 id="criminal-conditions">Criminal Conditions</h3>
-
-<p>5: Criminal Conditions</p>
-
-<p>(a) Migrants must not have been denied the right to travel outside their native country. </p>
-
-<p>(b) If seeking employment in the host country, migrants will be required to declare their criminal record for the past 10 years for any country in which they have resided 6 months or more</p>
-
-<p>(i) The host country reserves the right to deny a tax-file number/social security number to a migrant based off this record</p>
-
-<p>Section 3:</p>
-
-<p>1: Conditions which would nullify the agreement <br>
-(a) If any of the countries involved in this Act wish to withdraw from the agreement after enacting it, they must give the other countries involved a 3 month prior notice about their intentions <br>
-(b) If any of the countries involved in this Act break the restrictions laid in the bill, after a 3 month period of non compliance their participation in the agreement shall be considered nullified by the other countries in the agreement <br>
-     (i) Any migrants from the country which breaks the agreement still resident in any of the other countries in the agreement by the end of the non compliance period shall be dealt with according to each of the host country’s own immigration laws.</p>
-
-<h3 id="short-title-extent-and-commencement">Short Title,  extent and commencement</h3>
-
-<ol>
-<li><p>(1) This Act may be referred to as the <em>Free Movement between the UK, Australia, New Zealand and Canada Act</em>. <br>
-(2) This Act will apply to Canada. <br>
-(3) This Act shall only come into force if an Act that sets out the same terms as this Act is also enacted by at least one of the following countries:</p>
-
-<ol><li>Australia (/r/modelparliament);</li>
-<li>New Zealand (/r/MNZGov); or</li>
-<li>United Kingdom (/r/mhoc).</li></ol>
-
-<p>(4) This Act shall come into force a year after being enacted, subject to the conditions set out in this section.</p></li>
-</ol>
-
-<hr>
-
-<p><strong>This Bill was submitted by the Prime Minister /u/Canadianman22 and seconded by the Deputy Prime Minister /u/doc_mp on behalf of Her Majesty’s Government.</strong></p></div></body>
-</html>
+**This Bill was submitted by the Prime Minister /u/Canadianman22 and seconded by the Deputy Prime Minister /u/doc_mp on behalf of Her Majesty's Government.**
